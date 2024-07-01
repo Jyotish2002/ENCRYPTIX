@@ -1,0 +1,1 @@
+This to-do list app marks the completion of my first task as an intern in app development at Encryptix. I am deeply grateful to Encryptix for providing this incredible opportunity. Through this experience, I have gained significant knowledge and skills in the field of Android development.
